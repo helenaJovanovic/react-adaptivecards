@@ -59,7 +59,7 @@
     "webpack-blocks": "^1.0.0-rc.2"
   },
   "peerDependencies": {
-    "react": "^15.x || ^16.x"
+    "react": "^15.x || ^16.x || ^17.x"
   },
   "dependencies": {
     "adaptivecards": "^3.0.5",
