@@ -1,4 +1,4 @@
-# react-adaptivecards
+# react-adaptivecards-updated
 A react wrapper for [microsoft/adaptivecards](https://adaptivecards.io)
 
 ![](https://gatewayapps.github.io/react-adaptivecards/images/sample.png "Adaptive Cards")
@@ -6,12 +6,12 @@ A react wrapper for [microsoft/adaptivecards](https://adaptivecards.io)
 
 ### Installation
 ```js static
-  npm install --save react-adaptivecards
+  npm install --save react-adaptivecards-updated
 ```
 
 ### Usage
 ```js static
-  import AdaptiveCard from 'react-adaptivecards'
+  import AdaptiveCard from 'react-adaptivecards-updated'
 ```
 
 ### React-AdaptiveCard sample
